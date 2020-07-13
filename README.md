@@ -1,8 +1,8 @@
 
 # Hi, I'm Mehedi Hasan 👋🏾 👩🏾‍💻
 
-<img src="https://programmerhasan.info/static/images/me/programmerhasan5.JPG" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+<img src="https://programmerhasan.info/static/images/me/programmerhasan5.JPG" alt="Programmer Hasan">
+Obviously I'M Web,Mobile,Desktop Applications Designer & Developer and .Net Developer,YouTuber. Web Developer with over 3 years of experience. Experienced with all stages of the development cycle for dynamic web projects.Actually I am lover of Technology. For the last 7 years I have been in the virtual online world.I can't think a single minute without coding and programming. I know nothing but I know not little. So, Coding and Programming are everything in my life because I get pleasure in those. I’m not a great web developer and programmer,I’m just a good web developer and programmer with great habits. I don’t know anything but i know a lot. I’m thirsty for learn more code..
 
 
 ## Find me around the web 🌎:
