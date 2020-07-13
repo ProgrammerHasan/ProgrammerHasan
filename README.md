@@ -10,7 +10,7 @@ Obviously I'M Web,Mobile,Desktop Applications Designer & Developer and .Net Deve
 
 
 ## Find me around the web 🌎:
-- Learning in public on <a href="https://programmerhasan.info">ProgrammerHasan.Info</a> or <a href="https://www.mehedihasan.dev">MehediHasan.dev</a> or <a href="https://www.programmer.mehedihasan.dev">Programmer.MehediHasan.dev</a> 📹 ✍🏾
+- Learning in public on <a href="https://programmerhasan.info">ProgrammerHasan.Info</a> or <a href="https://mehedihasan.dev">MehediHasan.dev</a> or <a href="https://programmer.mehedihasan.dev">Programmer.MehediHasan.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/programmerhasan"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/programmerhasan/">LinkedIn</a> 💼
 
