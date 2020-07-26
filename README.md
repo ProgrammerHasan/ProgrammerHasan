@@ -1,6 +1,7 @@
 
 # Hi, I'm Mehedi Hasan
 
+[![facebook badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=linkedin)](https://www.facebook.com/programmerhasan04)
 [![linkedin badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/programmerhasan)
 [![twitter badge](https://img.shields.io/badge/@mehedihasan-30302f?style=flat&logo=twitter)](https://twitter.com/mehedihasan_04)
 [![youtube badge](https://img.shields.io/badge/@MsItXpress-30302f?style=flat&logo=youtube)](https://youtube.com/msitxpress)
