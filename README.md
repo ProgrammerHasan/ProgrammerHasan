@@ -1,5 +1,7 @@
 
-# Hi, I'm Mehedi Hasan
+# Hi, I'm [Mehedi Hasan](https://mehedihasan.dev) 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhasan&label=Views&color=blue&style=plastic" alt="programmerhasan" /> </p>
 
 [![facebook badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=facebook)](https://www.facebook.com/programmerhasan04)
 [![linkedin badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/programmerhasan)
