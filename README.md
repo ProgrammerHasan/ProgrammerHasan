@@ -19,12 +19,21 @@ Obviously I'm Full-Stack Web, Mobile, Desktop Applications Developer & Programme
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on django, laravel, nodejs, flutter.
+- 🔭 I’m currently working on [Excellent Soft](https://excellent-soft.net).
 - 🌱 I’m currently learning java, python, nodejs
-- 👯 I’m looking to collaborate on YouTube.
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/msitxpress).
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about django, laravel, nodejs, flutter, cyber security or any tech related stuff .
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Twitter - @mehedihasan_04](https://twitter.com/mehedihasan_04) , [Youtube - @msitxpress](https://youtube.com/msitxpress)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
