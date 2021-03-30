@@ -35,20 +35,20 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://dev.to/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://twitter.com/mehedihasan_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehedihasan_04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://fb.com/programmerhasan.s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="programmerhasan.s" height="30" width="40" /></a>
-<a href="https://instagram.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://dribbble.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://medium.com/@programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@programmerhasan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="programmerhasan" height="30" width="40" /></a>
-<a href="/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="programmerhasan" height="30" width="40" /></a>
+<a href="https://codepen.io/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://dev.to/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://twitter.com/mehedihasan_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehedihasan_04" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://fb.com/programmerhasan.s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="programmerhasan.s" height="20" width="20" /></a>
+<a href="https://instagram.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://dribbble.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://medium.com/@programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@programmerhasan" height="20" width="20" /></a>
+<a href="https://www.youtube.com/c/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://www.hackerrank.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://codeforces.com/profile/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://www.hackerearth.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="programmerhasan" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">**Languages & Tools and OS:**  </h3>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 
-<br>
+<p></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerhasan&" alt="programmerhasan" /></p>
 
 
