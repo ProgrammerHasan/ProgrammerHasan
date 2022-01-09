@@ -1,6 +1,5 @@
 
 # Hi, I'm [Mehedi Hasan](https://mehedihasan.dev) 👋
-Software Developer & Programmer, Cyber Security, YouTuber,Freelancer || Alhamdulillah For Everything!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhasan&label=Views&color=blue&style=plastic" alt="programmerhasan" /> </p>
 
@@ -11,7 +10,7 @@ Software Developer & Programmer, Cyber Security, YouTuber,Freelancer || Alhamdul
 [![youtube badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play-store.programmerhasan.com/)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
-
+<h3>Software Developer & Programmer || Alhamdulillah For Everything!</h3>
 Hi there, This is ProgrammerHasan.  I'm a Full-Stack Web, Mobile, Desktop Applications Developer & Programmer and Cyber Security, YouTuber, Graphic Designer.
 Currently, I’m a student (B.A) & working as a Freelancer. Yes! I'm (B Grade) Student, I have no CSE certificate! Non-CSE. Yes, I'm! <br>
 Web/App, Mobile,Desktop App Developer with over 3 years of experience. Experienced with all stages of the development cycle for dynamic projects. Moreover I'm a trainer since the beginning I'm trying to give the helpful It related educational information to the irrespective all ages people. Actually I am lover of Technology. For the last 7 years I have been in the virtual online world.I can't think a single minute without coding and programming. I know nothing but I know not little. So, Coding and Programming are everything in my life because I get pleasure in those. I’m not a great web developer and programmer,I’m just a good web developer and programmer with great habits. I don’t know anything but i know a lot. I’m thirsty for learn more code..
