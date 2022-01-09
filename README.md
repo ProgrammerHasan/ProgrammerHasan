@@ -17,9 +17,11 @@ Web/App, Mobile,Desktop App Developer with over 3 years of experience. Experienc
 
 
 ## Find me around the web 🌎:
-- Learning in public on <a href="https://programmerhasan.com">ProgrammerHasan.com</a> or <a href="https://mehedihasan.dev">MehediHasan.dev</a> or <a href="https://programmer.mehedihasan.dev">Programmer.MehediHasan.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/programmerhasan"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/programmerhasan/">LinkedIn</a> 💼
+- Search on Google : Who is ProgrammerHasan OR ProgrammerHasan, 
+- <a href="https://programmerhasan.com">ProgrammerHasan.com</a>
+- <a href="https://mehedihasan.dev">MehediHasan.dev</a>
+- <a href="https://programmer.mehedihasan.dev">Programmer.MehediHasan.dev</a> 📹 ✍🏾
+- <a href="https://g.dev/ProgrammerHasan">g.dev/ProgrammerHasan</a> 📹 ✍🏾
 
 Here are some ideas to get you started:
 
