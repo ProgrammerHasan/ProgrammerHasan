@@ -34,12 +34,28 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerhasan" alt="programmerhasan" /></a> </p>
+```python
+class ProgrammerHasan():
+    
+  def __init__(self):
+    self.name = "Programmer Hasan";
+    self.username = "ProgrammerHasan";
+    self.location = "Brahmanbaria, Bangladesh";
+    self.twitter = "@mehedihasan_04";
+    self.facebook = "@ProgrammerHasan.s";
+    self.web = "https://mehedihasan.dev";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = ProgrammerHasan()
+```
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="programmerhasan" height="20" width="20" /></a>
+<a href="https://codepen.io/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" style="color:282a36" alt="programmerhasan" height="20" width="20" /></a>
 <a href="https://dev.to/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="programmerhasan" height="20" width="20" /></a>
 <a href="https://twitter.com/mehedihasan_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehedihasan_04" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="programmerhasan" height="20" width="20" /></a>
@@ -63,13 +79,24 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 
 <p></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerhasan&" alt="programmerhasan" /></p>
 
 
 
 <a href="https://github.com/programmerhasan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerhasan&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerhasan&theme=dark&hide_langs_below=1&bg_color=282a36" />
 </a>
-<a href="https://github.com/programmerhasan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=programmerhasan&show_icons=true&theme=dracula&line_height=27" alt="Mehedi Hasan's github stats"/>
-</a>
+<p></p>
+
+<p align="left">
+  <a href="https://programmerhasan.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=programmerhasan&show_icons=true&theme=dracula&hide_border=true" alt="Mehedi Hasan's github stats" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerhasan&theme=dracula&hide_border=true" />
+  </a>
+</p>
+
+<p></p>
+
+[![Programmer Hasan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ProgrammerHasan&custom_title=ProgrammerHasan's%20Contribution%20Graph&theme=gruvbox&bg_color=282a36&hide_border=true&line=d1a01f&point=c58545)](https://mehedihasan.dev)
+<p></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerhasan&show_icons=true&theme=dracula" alt="programmerhasan" /></a> </p>
+
