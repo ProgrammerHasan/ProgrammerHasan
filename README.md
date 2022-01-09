@@ -1,5 +1,6 @@
 
 # Hi, I'm [Mehedi Hasan](https://mehedihasan.dev) 👋
+Software Developer & Programmer, Cyber Security, YouTuber,Freelancer || Alhamdulillah For Everything!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhasan&label=Views&color=blue&style=plastic" alt="programmerhasan" /> </p>
 
@@ -8,6 +9,8 @@
 [![twitter badge](https://img.shields.io/badge/@mehedihasan-30302f?style=flat&logo=twitter)](https://twitter.com/mehedihasan_04)
 [![youtube badge](https://img.shields.io/badge/@MsItXpress-30302f?style=flat&logo=youtube)](https://youtube.com/msitxpress)
 [![youtube badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
+[![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play-store.programmerhasan.com/)
+[![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
 
 Hi there, This is ProgrammerHasan.  I'm a Full-Stack Web, Mobile, Desktop Applications Developer & Programmer and Cyber Security, YouTuber, Graphic Designer.
 Currently, I’m a student (B.A) & working as a Freelancer. Yes! I'm (B Grade) Student, I have no CSE certificate! Non-CSE. Yes, I'm! <br>
