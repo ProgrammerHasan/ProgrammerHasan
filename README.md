@@ -15,7 +15,7 @@
 <b>Hello Dear!</b>
 <br>
 I'm <b>Mehedi Hasan</b>. I'm a Full-Stack Web, Mobile, Desktop Applications Developer & Programmer, Cyber Security, YouTuber, Graphic Designer.
-I have been a very successful web & mobile developer for over 3 years, working for individuals and companies in Bangladesh mostly.
+I have been a very successful web & mobile & windows (.net) developer for over 3 years, working for individuals and companies in Bangladesh mostly.
 There was a struggle when I started, but that didn't last very long, Alhamdulillah.
 I have no CSE certificate! Non-CSE. Yes, I'm!.
 
