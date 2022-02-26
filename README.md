@@ -11,17 +11,31 @@
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play-store.programmerhasan.com/)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
 <h3>Software Developer & Programmer || Alhamdulillah For Everything!</h3>
-Hi there, This is ProgrammerHasan.  I'm a Full-Stack Web, Mobile, Desktop Applications Developer & Programmer and Cyber Security, YouTuber, Graphic Designer.
-Currently, I’m a student (B.A) & working as a Freelancer. Yes! I'm (B Grade) Student, I have no CSE certificate! Non-CSE. Yes, I'm! <br>
-Web/App, Mobile,Desktop App Developer with over 3 years of experience. Experienced with all stages of the development cycle for dynamic projects. Moreover I'm a trainer since the beginning I'm trying to give the helpful It related educational information to the irrespective all ages people. Actually I am lover of Technology. For the last 7 years I have been in the virtual online world.I can't think a single minute without coding and programming. I know nothing but I know not little. So, Coding and Programming are everything in my life because I get pleasure in those. I’m not a great web developer and programmer,I’m just a good web developer and programmer with great habits. I don’t know anything but i know a lot. I’m thirsty for learn more code..
+<b>As-Salamu Alaykum (ٱلسَّلَامُ عَلَيْكُمْ‎‎)</b> <br>
+<b>Hello Dear!</b>
+<br>
+I'm <b>Mehedi Hasan</b>. I'm a Full-Stack Web, Mobile, Desktop Applications Developer & Programmer, Cyber Security, YouTuber, Graphic Designer.
+I have been a very successful web & mobile developer for over 3 years, working for individuals and companies in Bangladesh mostly.
+There was a struggle when I started, but that didn't last very long, Alhamdulillah.
+I have no CSE certificate! Non-CSE. Yes, I'm!.
 
+Experienced with all stages of the development cycle for dynamic projects.
+Since I have started Web and Android app development, I have been spending every spare minute writing code for the Web & Mobile and learning everything on mobile application development.
+I have also adapted cross-platform Mobile Application Development with Flutter and also Successfully Completed a Government Application Development for iOS and Android using Flutter, Laravel, and Amazon Web Services.
+I have a primary Job in an IT Farm where I develop a wide range of Applications day-to-day basis like Airport Protocol, Biman Parts-Management, Employee Tracking System, Flight Management System, Biman Flying Hour, Biman Manual, CAAB-Pass, Biman Duty Roster, Biman Special Care, Employee Document, Applications for Biman Bangladesh Airlines Users and System Administration mostly develop Applications for <b>Biman Bangladesh Airlines</b> and <b>Hazrat Shahjalal International Airport</b>. Additionally, to the development of new apps, a lot of the work I do is the ongoing maintenance of existing popular apps.
+
+Moreover, I'm a trainer since the beginning I'm trying to give helpful It related educational information to the irrespective of all ages people. Actually, I am lover of Technology. For the last 7 years, I have been in the virtual online world.I can't think a single minute without coding and programming. I know nothing but I know not little. So, Coding and Programming are everything in my life because I get pleasure in those. I’m not a great software developer and programmer,I’m just a good software developer and programmer with great habits. I don’t know anything but i know a lot. I’m thirsty for learn more code.
+I have learned a lot from workplaces, I have never stopped learning.
+I am still learning and trying to discover and learn new things.......
+
+Thanks for reading!
 
 ## Find me around the web 🌎:
 - Search on Google : Who is ProgrammerHasan OR ProgrammerHasan, 
 - <a href="https://programmerhasan.com">ProgrammerHasan.com</a>, <a href="https://mehedihasan.dev">MehediHasan.dev</a>
 - <a href="https://programmer.mehedihasan.dev">Programmer.MehediHasan.dev</a>
 - <a href="https://g.dev/ProgrammerHasan">g.dev/ProgrammerHasan</a> 📹 ✍🏾
-- <a href="https://play.google.com/store/apps/details?id=com.programmerhasan.app">Android App</a>
+- <a href="https://play.google.com/store/apps/details?id=com.programmerhasan.app">Programmer Hasan App</a>
 
 Here are some ideas to get you started:
 
