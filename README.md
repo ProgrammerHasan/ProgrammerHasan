@@ -10,7 +10,7 @@
 [![youtube badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play-store.programmerhasan.com/)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
-<h3>Software Developer & Programmer || Alhamdulillah For Everything!</h3>
+<h3>Software Developer & Programmer || Software Engineer @ Sasthya Seba Limited || Alhamdulillah For Everything!</h3>
 <b>As-Salamu Alaykum (ٱلسَّلَامُ عَلَيْكُمْ‎‎)</b> <br>
 <b>Hello Dear!</b>
 <br>
@@ -39,7 +39,7 @@ Thanks for reading!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Excellent Soft](https://excellent-soft.net).
+- 🔭 I’m currently working on [Sasthya Seba Limited](http://sasthyaseba.com).
 - 🌱 I’m currently learning java, python, nodejs
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/msitxpress).
 - 🤔 I’m looking for help with ...
