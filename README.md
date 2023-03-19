@@ -10,7 +10,7 @@
 [![youtube badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play-store.programmerhasan.com/)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
-<h3>Software Developer & Programmer || Software Engineer @ Sasthya Seba Limited || Alhamdulillah For Everything!</h3>
+<h3>Software Developer & Programmer || Software Engineer @ Sasthya Seba Limited <br>Alhamdulillah For Everything!</h3>
 <b>As-Salamu Alaykum (ٱلسَّلَامُ عَلَيْكُمْ‎‎)</b> <br>
 <b>Hello Dear!</b>
 <br>
