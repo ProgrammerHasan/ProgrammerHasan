@@ -10,25 +10,19 @@
 [![youtube badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play-store.programmerhasan.com/)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
-<h3>Software Developer & Programmer || Software Engineer at @Sasthya Seba Limited <br>Alhamdulillah For Everything!</h3>
-<b>As-Salamu Alaykum (ٱلسَّلَامُ عَلَيْكُمْ‎‎)</b> <br>
-<b>Hello Dear!</b>
-<br>
-I'm <b>Mehedi Hasan</b>. I'm a Full-Stack Web, Mobile, Desktop Applications Developer & Programmer, Cyber Security, YouTuber, Graphic Designer.
-I have been a very successful web & mobile & windows (.net) developer for over 3 years, working for individuals and companies in Bangladesh mostly.
-There was a struggle when I started, but that didn't last very long, Alhamdulillah.
-I have no CSE certificate! Non-CSE. Yes, I'm!.
+<h3>Software Developer & Programmer || Founder & CEO at MsITXpress <br> Software Engineer at Sasthya Seba Limited <br> Sr. Software Engineer & Programmer at Excellent-Soft <br><br>Laravel | Flutter | React | Backend Engineer <br><br>Alhamdulillah For Everything!</h3>
+<p>
+Passionate and self-taught Software Engineer, known as "Programmer Hasan" with over 5 years of immersive experience in the tech industry. My journey commenced with an insatiable curiosity for technology, evolving into a fulfilling career marked by continuous learning and leadership.
 
-Experienced with all stages of the development cycle for dynamic projects.
-Since I have started Web and Android app development, I have been spending every spare minute writing code for the Web & Mobile and learning everything on mobile application development.
-I have also adapted cross-platform Mobile Application Development with Flutter and also Successfully Completed a Government Application Development for iOS and Android using Flutter, Laravel, and Amazon Web Services.
-I have a primary Job in an IT Farm where I develop a wide range of Applications day-to-day basis like Airport Protocol, Biman Parts-Management, Employee Tracking System, Flight Management System, Biman Budget, Cabin Crew Union, Captain Log, Biman Flying Hour, Biman Manual, CAAB-Pass, Biman Duty Roster, Biman Special Care, Employee Document, Applications for Biman Bangladesh Airlines Users and System Administration mostly develop Applications for <b>Biman Bangladesh Airlines</b> and <b>Hazrat Shahjalal International Airport</b>. Additionally, to the development of new apps, a lot of the work I do is the ongoing maintenance of existing popular apps.
+Full-Stack Web, Mobile, Desktop Applications Developer & Programmer, Graphic Designer. I have been a very successful web & mobile & windows (.net) developer for over 5 years, working for individuals and companies in Bangladesh mostly. There was a struggle when I started, but that didn't last very long, Alhamdulillah. I have no CSE certificate! Non-CSE. Yes!
+Experienced with all stages of the development cycle for dynamic projects. Since I have started Web and Android app development, I have been spending every spare minute writing code for the Web & Mobile and learning everything on mobile application development. I have also adapted cross-platform Mobile Application Development with Flutter and also Successfully Completed a Government Application Development for iOS and Android using Flutter, Laravel, and Amazon Web Services. I have a primary Job in an IT Farm where I develop a wide range of Applications day-to-day basis like Airport Protocol, Bangladesh Biman Cabin Crew Union, Biman Parts-Management, Employee Tracking System, Flight Management System, Biman Flying Hour, Biman Manual, CAAB-Pass, Biman Duty Roster, Biman Special Care, Employee Document, Captain Logs, Biman Budget, Applications for Biman Bangladesh Airlines Users and System Administration mostly develop Applications for Biman Bangladesh Airlines and Hazrat Shahjalal International Airport. Additionally, to the development of new apps, a lot of the work I do is the ongoing maintenance of existing popular apps.
 
 Moreover, I'm a trainer since the beginning I'm trying to give helpful It related educational information to the irrespective of all ages people. Actually, I am lover of Technology. For the last 7 years, I have been in the virtual online world.I can't think a single minute without coding and programming. I know nothing but I know not little. So, Coding and Programming are everything in my life because I get pleasure in those. I’m not a great software developer and programmer,I’m just a good software developer and programmer with great habits. I don’t know anything but i know a lot. I’m thirsty for learn more code.
 I have learned a lot from workplaces, I have never stopped learning.
 I am still learning and trying to discover and learn new things.......
 
 Thanks for reading!
+</p>
 
 ## Find me around the web 🌎:
 - Search on Google : Who is ProgrammerHasan OR ProgrammerHasan, 
@@ -39,7 +33,7 @@ Thanks for reading!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Sasthya Seba Limited](http://sasthyaseba.com).
+- 🔭 I’m currently working on [Sasthya Seba Limited](http://sasthyaseba.com), [Excellent-Soft](https://excellent-soft.net/).
 - 🌱 I’m currently learning java, python, nodejs
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/msitxpress).
 - 🤔 I’m looking for help with ...
