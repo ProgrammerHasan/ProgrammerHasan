@@ -22,6 +22,8 @@ I have learned a lot from workplaces, I have never stopped learning.
 I am still learning and trying to discover and learn new things.......
 
 Thanks for reading!
+Jazāk Allāhu Khayran (جزاك اللهُ خيرًا)
+Wa angtum fa jazakallahu khoiron.
 </p>
 
 ## Find me around the web 🌎:
