@@ -21,8 +21,8 @@ Moreover, I'm a trainer since the beginning I'm trying to give helpful It relate
 I have learned a lot from workplaces, I have never stopped learning.
 I am still learning and trying to discover and learn new things.......
 
-Thanks for reading!
-Jazāk Allāhu Khayran (جزاك اللهُ خيرًا)
+Thanks for reading!<br>
+Jazāk Allāhu Khayran (جزاك اللهُ خيرًا)<br>
 Wa angtum fa jazakallahu khoiron.
 </p>
 
