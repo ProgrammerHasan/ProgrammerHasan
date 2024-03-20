@@ -2,6 +2,7 @@
 # Hi, I'm [Mehedi Hasan](https://mehedihasan.dev) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhasan&label=Views&color=blue&style=plastic" alt="programmerhasan" /> </p>
+<p><a href="https://wakatime.com/@f7bb0bd1-c231-4bbe-8571-83461b75f11e"><img src="https://wakatime.com/badge/user/f7bb0bd1-c231-4bbe-8571-83461b75f11e.svg" alt="Total time coded since May 14 2020" /></a></p>
 
 [![facebook badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=facebook)](https://www.facebook.com/programmerhasan04)
 [![linkedin badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/programmerhasan)
@@ -53,7 +54,7 @@ class ProgrammerHasan():
     self.name = "Programmer Hasan";
     self.username = "ProgrammerHasan";
     self.location = "Brahmanbaria, Bangladesh";
-    self.twitter = "@mehedihasan_04";
+    self.linkedin = "@ProgrammerHasan";
     self.facebook = "@ProgrammerHasan.s";
     self.web = "https://mehedihasan.dev";
   
