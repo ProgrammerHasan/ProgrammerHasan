@@ -9,7 +9,7 @@
 [![twitter badge](https://img.shields.io/badge/@mehedihasan-30302f?style=flat&logo=twitter)](https://twitter.com/mehedihasan_04)
 [![youtube badge](https://img.shields.io/badge/@MsItXpress-30302f?style=flat&logo=youtube)](https://youtube.com/msitxpress)
 [![youtube badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
-[![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play-store.programmerhasan.com/)
+[![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play.google.com/store/apps/details?id=com.programmerhasan.app)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
 <h3>Software Developer & Programmer || Founder & CEO at MsITXpress <br> Software Engineer at Sasthya Seba Limited <br> Sr. Software Engineer & Programmer at Excellent-Soft <br><br>Laravel | Flutter | React | Backend Engineer <br><br>Alhamdulillah For Everything!</h3>
 <p>
