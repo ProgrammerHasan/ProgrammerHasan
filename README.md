@@ -22,6 +22,37 @@ Moreover, I'm a trainer since the beginning I'm trying to give helpful It relate
 I have learned a lot from workplaces, I have never stopped learning.
 I am still learning and trying to discover and learn new things.......
 
+<p> 
+I have successfully deployed 50+ mobile applications and web management software. Due to privacy reasons and the sheer volume of projects, it’s not feasible to list them all. However, I’m proud to showcase some of the most impactful projects that have made significant contributions to Biman Bangladesh Airlines and various other industries. These projects have been developed to meet rigorous standards for security, performance, and scalability under demanding operational environments.
+</p>
+Notable projects include:
+<br>
+--------------------------------
+<br>
+* Biman Sale Promotion <br>
+* Biman Special Care<br>
+* BBCCU (Biman Bangladesh Cabin Crew Union) <br>
+* Captain Logs <br>
+* Biman Parts Management <br>
+* Biman Duty Roster <br>
+* Uttara-Square <br>
+* Biman Budget Management <br>
+* Islamic Apps - Engineer Moinul Hossain<br>
+* Islamic Apps - MsITXpress<br>
+* Biman CAAB - Pass<br>
+* AlQuranBangladesh.Com<br>
+* 27Hours Learning Quran<br>
+* Probashi Bangali<br>
+* AGQ<br>
+* Biman Employee<br>
+* Airport Protocol<br>
+* Biman Manual<br>
+* Biman Flying Hour<br>
+* AlQuranBd.Org<br>
+* CAAB-Pass<br>
+* Biman Duty Roster<br>
+etc..........<br><br>
+
 Thanks for reading!<br>
 Jazāk Allāhu Khayran (جزاك اللهُ خيرًا)<br>
 Wa angtum fa jazakallahu khoiron.
