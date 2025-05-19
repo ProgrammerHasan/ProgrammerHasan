@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ProgrammerHasan.04)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/programmerhasan)
 [![hackerrank badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/ProgrammerHasan)
-[![YouTube](https://img.shields.io/badge/MsITXpress-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/msitxpress)
+[![youtube badge](https://img.shields.io/badge/MsITXpress-30302f?style=flat&logo=youtube)](https://youtube.com/msitxpress)
 [![youtube badge](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play.google.com/store/apps/details?id=com.programmerhasan.app)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
