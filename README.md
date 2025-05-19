@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhasan&label=Views&color=blue&style=plastic" alt="programmerhasan" /> </p>
 <p><a href="https://wakatime.com/@f7bb0bd1-c231-4bbe-8571-83461b75f11e"><img src="https://wakatime.com/badge/user/f7bb0bd1-c231-4bbe-8571-83461b75f11e.svg" alt="Total time coded since May 14 2020" /></a></p>
 
-[![facebook badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=facebook)](https://www.facebook.com/programmerhasan04)
-[![linkedin badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/programmerhasan)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ProgrammerHasan.04)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/programmerhasan)
 [![hackerrank badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/ProgrammerHasan)
-[![youtube badge](https://img.shields.io/badge/@MsItXpress-30302f?style=flat&logo=youtube)](https://youtube.com/msitxpress)
-[![youtube badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
+[![YouTube](https://img.shields.io/badge/MsITXpress-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/msitxpress)
+[![youtube badge](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play.google.com/store/apps/details?id=com.programmerhasan.app)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
 <h3>
