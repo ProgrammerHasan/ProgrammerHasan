@@ -1,17 +1,24 @@
 
-# Hi, I'm [Mehedi Hasan](https://mehedihasan.dev) 👋
+# Hi, I'm [Mehedi Hasan](https://programmerhasan.github.io) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhasan&label=Views&color=blue&style=plastic" alt="programmerhasan" /> </p>
 <p><a href="https://wakatime.com/@f7bb0bd1-c231-4bbe-8571-83461b75f11e"><img src="https://wakatime.com/badge/user/f7bb0bd1-c231-4bbe-8571-83461b75f11e.svg" alt="Total time coded since May 14 2020" /></a></p>
 
 [![facebook badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=facebook)](https://www.facebook.com/programmerhasan04)
 [![linkedin badge](https://img.shields.io/badge/MehediHasan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/programmerhasan)
-[![twitter badge](https://img.shields.io/badge/@mehedihasan-30302f?style=flat&logo=twitter)](https://twitter.com/mehedihasan_04)
+[![hackerrank badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/ProgrammerHasan)
 [![youtube badge](https://img.shields.io/badge/@MsItXpress-30302f?style=flat&logo=youtube)](https://youtube.com/msitxpress)
 [![youtube badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play.google.com/store/apps/details?id=com.programmerhasan.app)
 [![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
-<h3>Software Developer & Programmer || Founder & CEO at MsITXpress <br> Software Engineer at Sasthya Seba Limited <br> Sr. Software Engineer & Programmer at Excellent-Soft <br><br>Laravel | Flutter | React | Backend Engineer <br><br>Alhamdulillah For Everything!</h3>
+<h3>
+    Full-Stack Software Engineer & Programmer
+    <br>
+    Laravel | Flutter | React | Backend Engineer | Quick Learner 🚀
+    <br>
+    Software Engineer at Sasthya Seba Limited | CTO at Excellent Soft
+    <br><br>Alhamdulillah For Everything!
+</h3>
 <p>
 Passionate and self-taught Software Engineer, known as <strong>"Programmer Hasan"</strong> with over 5 years of immersive experience in the tech industry. My journey commenced with an insatiable curiosity for technology, evolving into a fulfilling career marked by continuous learning and leadership.
 
@@ -61,8 +68,7 @@ Wa angtum fa jazakallahu khoiron.
 
 ## Find me around the web 🌎:
 - Search on Google : <strong>Who is ProgrammerHasan</strong> OR <strong>ProgrammerHasan</strong>, 
-- <a href="https://programmerhasan.com">ProgrammerHasan.com</a>, <a href="https://mehedihasan.dev">MehediHasan.dev</a>
-- <a href="https://programmer.mehedihasan.dev">Programmer.MehediHasan.dev</a>
+- <a href="https://programmerhasan.com">ProgrammerHasan.com</a>
 - <a href="https://g.dev/ProgrammerHasan">g.dev/ProgrammerHasan</a> 📹 ✍🏾
 - <a href="https://play.google.com/store/apps/details?id=com.programmerhasan.app">Programmer Hasan App</a>
 
