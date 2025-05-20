@@ -136,7 +136,7 @@ class ProgrammerHasan():
     self.location = "Brahmanbaria, Bangladesh";
     self.linkedin = "@ProgrammerHasan";
     self.facebook = "@ProgrammerHasan.s";
-    self.web = "https://mehedihasan.dev";
+    self.web = "https://programmerhasan.github.io";
   
   def __str__(self):
     return self.name
