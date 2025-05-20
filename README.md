@@ -73,59 +73,198 @@ For coding, I prefer:
 -- App Store Connect – Successfully deployed iOS apps, managed TestFlight and production releases.<br>
 -- Microsoft Partner Center / Windows Developer – Experienced in publishing and managing Windows desktop apps (.NET platform).<br>
 <br>
-Notable projects include:
-<br>
---------------------------------
-<br>
-* Biman Sale Promotion <br>
-* Biman Special Care<br>
-* BBCCU (Biman Bangladesh Cabin Crew Union) <br>
-* Captain Logs <br>
-* Biman Parts Management <br>
-* Biman Duty Roster <br>
-* Uttara-Square <br>
-* Biman Budget Management <br>
-* Islamic Apps - Engineer Moinul Hossain<br>
-* Islamic Apps - MsITXpress<br>
-* SasthyaSeba.Com<br>
-* Biman CAAB - Pass<br>
-* AlQuranBangladesh.Com<br>
-* 27Hours Learning Quran<br>
-* Probashi Bangali<br>
-* AGQ<br>
-* Biman Employee<br>
-* Airport Protocol<br>
-* Biman Manual<br>
-* Biman Flying Hour<br>
-* AlQuranBd.Org<br>
-* CAAB-Pass<br>
-* Biman Duty Roster<br>
-etc..........<br><br>
 
 Shukran for reading!<br>
 Jazāk Allāhu Khayran (جزاك اللهُ خيرًا)<br>
 Wa angtum fa jazakallahu khoiron.
 </p>
 
-## Find me around the web 🌎:
-- Search on Google/ChatGPT: <strong>Who is ProgrammerHasan</strong> OR <strong>ProgrammerHasan</strong>, 
-- <a href="https://wakatime.com/@ProgrammerHasan">Live coding</a>
-- <a href="https://programmerhasan.com">ProgrammerHasan.com</a>
-- <a href="https://g.dev/ProgrammerHasan">g.dev/ProgrammerHasan</a> 📹 ✍🏾
-- <a href="https://play.google.com/store/apps/details?id=com.programmerhasan.app">Programmer Hasan App</a>
+#  
+
+<details>
+<summary>🧰 My Tech Stack & Tools</summary>
+
+#### 💻 Programming & Frameworks  
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel&logoColor=F05340)  
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=02569B)  
+![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js&logoColor=4FC08D)  
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-000?&logo=inertia&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css&logoColor=38B2AC)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=563D7C)  
+
+#### ☁️ Cloud & Hosting  
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws&logoColor=FF9900)  
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=FFCA28)  
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel&logoColor=white)  
+
+#### 🧠 IDEs & Editors  
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000?&logo=intellij-idea&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code&logoColor=007ACC)  
+![Nano](https://img.shields.io/badge/-Nano-000?&logo=gnu&logoColor=4EAA25)  
+![Android Studio](https://img.shields.io/badge/-Android_Studio-000?&logo=android-studio&logoColor=3DDC84)  
+![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=xcode&logoColor=1575F9)  
+
+#### 🔧 DevOps & Versioning  
+![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)  
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=2496ED)  
+
+#### 📦 Package Managers  
+![NPM](https://img.shields.io/badge/-NPM-222?&logo=npm&logoColor=CB3837)  
+![Yarn](https://img.shields.io/badge/-Yarn-222?&logo=yarn&logoColor=2C8EBB)  
+![Composer](https://img.shields.io/badge/-Composer-222?&logo=composer&logoColor=885630)  
+![Pub](https://img.shields.io/badge/-Pub-222?&logo=dart&logoColor=0175C2)  
+
+#### 👨‍💻 Programming Languages  
+![PHP](https://img.shields.io/badge/-PHP-1a1a1a?&logo=php&logoColor=8892BF)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?&logo=javascript&logoColor=F7DF1E)  
+![Dart](https://img.shields.io/badge/-Dart-1a1a1a?&logo=dart&logoColor=0175C2)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?&logo=typescript&logoColor=3178C6)  
+![HTML5](https://img.shields.io/badge/-HTML5-1a1a1a?&logo=html5&logoColor=E34F26)  
+![CSS3](https://img.shields.io/badge/-CSS3-1a1a1a?&logo=css3&logoColor=1572B6)  
+
+#### 🤖 Artificial Intelligence  
+![OpenAI](https://img.shields.io/badge/-OpenAI-343541?&logo=openai&logoColor=white)  
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-343541?&logo=openai&logoColor=10A37F)  
+![Google AI](https://img.shields.io/badge/-Google_AI-343541?&logo=google&logoColor=4285F4)  
+
+#### 💽 Operating Systems  
+![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)  
+![macOS](https://img.shields.io/badge/-macOS-000000?&logo=apple&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?&logo=ubuntu&logoColor=white)  
+
+#### 🧩 Design & Productivity  
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop&logoColor=31A8FF)  
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E)  
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=slack&logoColor=4A154B)  
+![Trello](https://img.shields.io/badge/-Trello-000?&logo=trello&logoColor=0052CC)  
+
+#### 🔐 Security  
+![Security](https://img.shields.io/badge/-Security-000?&logo=protonmail&logoColor=E53935)  
+
+#### 📦 Platforms  
+![Google Play](https://img.shields.io/badge/-Google_Play_Console-000?&logo=google-play&logoColor=3DDC84)  
+![Apple Developer](https://img.shields.io/badge/-Apple_Developer-000?&logo=apple&logoColor=white)  
+![Windows Developer](https://img.shields.io/badge/-Windows_Dev-000?&logo=windows&logoColor=0078D6)  
+
+#### ⏱️ Time Tracking  
+![Clockify](https://img.shields.io/badge/-Clockify-3772FF?style=for-the-badge&logo=clockify&logoColor=white)  
+![WakaTime](https://img.shields.io/badge/-WakaTime-0E76FD?style=for-the-badge&logo=wakatime&logoColor=white)  
+
+</details>
+
+<details>
+<summary>🚀 Notable Projects</summary>
+
+Here are some of the notable applications and systems I’ve worked on:
+
+- Biman Sale Promotion  
+- Biman Special Care  
+- BBCCU (Biman Bangladesh Cabin Crew Union)  
+- Captain Logs  
+- Biman Parts Management  
+- Biman Duty Roster  
+- Uttara-Square  
+- Biman Budget Management  
+- Islamic Apps - Engineer Moinul Hossain  
+- Islamic Apps - MsITXpress  
+- SasthyaSeba.Com  
+- Biman CAAB - Pass  
+- AlQuranBangladesh.Com  
+- 27Hours Learning Quran  
+- Probashi Bangali  
+- AGQ  
+- Biman Employee  
+- Airport Protocol  
+- Biman Manual  
+- Biman Flying Hour  
+- AlQuranBd.Org  
+- CAAB-Pass  
+- Biman Duty Roster  
+
+...and many more.
+
+</details>
+
+<details>
+#<summary><strong>🌎 Find me around the web (click to expand)</strong></summary>
+
+<br>
+
+- 🔍 Search on Google / ChatGPT: **Who is ProgrammerHasan** OR **ProgrammerHasan**  
+- 🧑‍💻 [Live coding on WakaTime](https://wakatime.com/@ProgrammerHasan)  
+- 🌐 [ProgrammerHasan.com](https://programmerhasan.com)  
+- 🚀 [g.dev/ProgrammerHasan](https://g.dev/ProgrammerHasan)  
+- 📱 [Programmer Hasan App on Google Play](https://play.google.com/store/apps/details?id=com.programmerhasan.app)
+
+</details>
+
+
+<details>
+<summary><strong>🚀 Get to Know Me</strong></summary>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Sasthya Seba Limited](http://sasthyaseba.com), [Excellent-Soft](https://excellent-soft.net/).
-- 🌱 I’m currently learning java, python, nodejs
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/msitxpress).
+- 🔭 I’m currently working on [Sasthya Seba Limited](http://sasthyaseba.com), [Excellent-Soft](https://excellent-soft.net/)
+- 🌱 I’m currently learning Java, Python, Node.js
+- 👯 I’m looking to collaborate on [YouTube](https://youtube.com/msitxpress)
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about django, laravel, nodejs, flutter, cyber security or any tech related stuff .
-- 📫 How to reach me: [Twitter - @mehedihasan_04](https://twitter.com/mehedihasan_04) , [Youtube - @msitxpress](https://youtube.com/msitxpress)
+- 💬 Ask me about Django, Laravel, Node.js, Flutter, Cyber Security or any tech-related stuff
+- 📫 How to reach me: [Twitter - @mehedihasan_04](https://twitter.com/mehedihasan_04), [YouTube - @msitxpress](https://youtube.com/msitxpress)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
--->
 
+</details>
+
+<details>
+  <summary>🔗 Connect with me</summary>
+
+  <p>
+    <a href="https://codepen.io/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white" alt="Codepen" height="20" />
+    </a>
+    <a href="https://dev.to/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=dev-dot-to&logoColor=white" alt="DEV" height="20" />
+    </a>
+    <a href="https://twitter.com/mehedihasan_04" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="20" />
+    </a>
+    <a href="https://linkedin.com/in/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" />
+    </a>
+    <a href="https://stackoverflow.com/users/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="20" />
+    </a>
+    <a href="https://fb.com/programmerhasan.s" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="20" />
+    </a>
+    <a href="https://instagram.com/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20" />
+    </a>
+    <a href="https://dribbble.com/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" height="20" />
+    </a>
+    <a href="https://medium.com/@programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" height="20" />
+    </a>
+    <a href="https://www.youtube.com/c/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="20" />
+    </a>
+    <a href="https://www.hackerrank.com/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" height="20" />
+    </a>
+    <a href="https://codeforces.com/profile/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" height="20" />
+    </a>
+    <a href="https://www.hackerearth.com/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/HackerEarth-2CA02C?style=flat-square&logo=hackerearth&logoColor=white" alt="HackerEarth" height="20" />
+    </a>
+    <a href="/programmerhasan" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/RSS-FE6600?style=flat-square&logo=rss&logoColor=white" alt="RSS" height="20" />
+    </a>
+  </p>
+</details>
 
 ```python
 class ProgrammerHasan():
@@ -144,35 +283,6 @@ class ProgrammerHasan():
 if __name__ == '__main__':
     me = ProgrammerHasan()
 ```
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" style="color:282a36" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://dev.to/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://twitter.com/mehedihasan_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehedihasan_04" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://fb.com/programmerhasan.s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="programmerhasan.s" height="20" width="20" /></a>
-<a href="https://instagram.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://dribbble.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://medium.com/@programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@programmerhasan" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://www.hackerrank.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://codeforces.com/profile/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="https://www.hackerearth.com/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="programmerhasan" height="20" width="20" /></a>
-<a href="/programmerhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="programmerhasan" height="20" width="20" /></a>
-</p>
-
-<h3 align="left">**Languages & Tools and OS:**  </h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="20" height="20"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="20" height="20"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="20" height="20"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="20" height="20"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="20" height="20"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="20" height="20"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="20" height="20"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="20" height="20"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="20" height="20"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="20" height="20"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="20" height="20"/> </a> </p>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
-
-<p></p>
-
 
 
 <a href="https://github.com/programmerhasan">
