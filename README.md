@@ -20,18 +20,59 @@
     <br><br>Alhamdulillah For Everything!
 </h3>
 <p>
-Passionate and self-taught Software Engineer, known as <strong>"Programmer Hasan"</strong> with over 5 years of immersive experience in the tech industry. My journey commenced with an insatiable curiosity for technology, evolving into a fulfilling career marked by continuous learning and leadership.
+Passionate and self-taught Software Engineer, known as <strong>"Programmer Hasan"</strong> with over <strong>6+</strong> years of immersive experience in the tech industry. My journey commenced with an insatiable curiosity for technology, evolving into a fulfilling career marked by continuous learning and leadership.
 
-Full-Stack Web, Mobile, Desktop Applications Developer & Programmer, Graphic Designer. I have been a very successful web & mobile & windows (.net) developer for over 5 years, working for individuals and companies in Bangladesh mostly. There was a struggle when I started, but that didn't last very long, Alhamdulillah. I have no CSE certificate! Non-CSE. Yes!
-Experienced with all stages of the development cycle for dynamic projects. Since I have started Web and Android app development, I have been spending every spare minute writing code for the Web & Mobile and learning everything on mobile application development. I have also adapted cross-platform Mobile Application Development with Flutter and also Successfully Completed a <strong>Government Application</strong> Development for iOS and Android using Flutter, Laravel, and Amazon Web Services. I have a primary Job in an IT Farm where I develop a wide range of Applications day-to-day basis like  <strong>Airport Protocol, Bangladesh Biman Cabin Crew Union, Biman Parts-Management, Employee Tracking System, Flight Management System, Biman Flying Hour, Biman Manual, CAAB-Pass, Biman Duty Roster, Biman Special Care, Employee Document, Captain Logs, Biman Budget, Applications for Biman Bangladesh Airlines Users and System Administration mostly develop Applications for Biman Bangladesh Airlines and Hazrat Shahjalal International Airport</strong>. Additionally, to the development of new apps, a lot of the work I do is the ongoing maintenance of existing popular apps.
+Full-Stack Web, Mobile, Desktop Applications Developer & Programmer, Graphic Designer.
+<br>
+Worked as a successful Web, Mobile & Windows (.NET) developer for 6+ years, mostly in Bangladesh. Though I started with struggles as a non-CSE background, Alhamdulillah, I’ve overcome and deployed <strong>100+</strong> mobile and web apps.
+<br>
+<br>
+Experienced in all stages of the software development lifecycle. From the beginning of my Web and Android journey, I’ve spent almost every spare moment coding and learning. I later adopted Flutter for cross-platform development and successfully built a Government app for both iOS and Android using Flutter, Laravel, and AWS.
+<br>
+<br>
+I have a primary Job in an IT Farm where I develop a wide range of Applications day-to-day basis like:
+<br>
+<strong>Airport Protocol, Bangladesh Biman Cabin Crew Union, Biman Parts-Management, Employee Tracking System, Flight Management System, Biman Flying Hour, Biman Manual, CAAB-Pass, Biman Duty Roster, Biman Special Care, Employee Document, Captain Logs, Biman Budget, Applications for Biman Bangladesh Airlines Users and System Administration mostly develop Applications for Biman Bangladesh Airlines and Hazrat Shahjalal International Airport</strong>.
+<br>
+Alongside new development, I regularly maintain and upgrade existing mission-critical applications.
+<br>
+<br>
+🌱 From the beginning of my journey, I’ve always tried to share useful IT knowledge to people of all ages. I’m not only a developer—I’m a tech lover and helper.
+<br>
+For the last 10 years, I’ve been living in the virtual online world, even before my professional journey began.
+<br>
+<blockquote >
+I don’t know everything—but I know not little. <br>
+I’m not a great programmer—just a good one with great habits. <br>
+I’m always thirsty to learn more, and I get real pleasure from writing code. <br>
+</blockquote>
 
-Moreover, I'm a trainer since the beginning I'm trying to give helpful It related educational information to the irrespective of all ages people. Actually, I am lover of Technology. For the last 7 years, I have been in the virtual online world.I can't think a single minute without coding and programming. I know nothing but I know not little. So, Coding and Programming are everything in my life because I get pleasure in those. I’m not a great software developer and programmer,I’m just a good software developer and programmer with great habits. I don’t know anything but i know a lot. I’m thirsty for learn more code.
-I have learned a lot from workplaces, I have never stopped learning.
-I am still learning and trying to discover and learn new things.......
-
-<p> 
-I have successfully deployed 50+ mobile applications and web management software. Due to privacy reasons and the sheer volume of projects, it’s not feasible to list them all. However, I’m proud to showcase some of the most impactful projects that have made significant contributions to Biman Bangladesh Airlines and various other industries. These projects have been developed to meet rigorous standards for security, performance, and scalability under demanding operational environments.
-</p>
+<p>    
+I’ve learned a lot from real-life projects, team challenges, and production issues—and I'm still learning. For me, coding is not just a skill, it’s life.
+<br>
+<br>
+🔧 Over the years, I’ve gathered experience in multiple areas of technology:
+<br>
+✅ Web: Backend, Frontend (Laravel, Inertia.js, Vue.js, React, Bootstrap, Tailwind) <br>
+✅ Mobile App: Crossplatform - Flutter (Android & iOS) <br>
+✅ Cloud & DevOps: AWS, Firebase, Vercel, GCP, Docker, CI/CD, Git, GitHub Actions <br>
+✅ System, Backend & Security: cPanel, Server Management, API Design, Authentication, App & Server Security, Performance Optimization <br>
+✅ Data: Web Scraping, OCR <br>
+<br>
+🧰 In my daily development workflow, <br>
+I regularly use tools like Slack, Sentry, Trello, WakaTIme, Clockify, Postman, and Figma.
+For coding, I prefer:
+<br>
+🧠 IntelliJ IDEA – for its powerful features. <br>
+🛠️ VS Code – for flexibility. <br>
+⚡ Nano – for simple and fast terminal-based edits. <br>
+📱 Android Studio & Xcode - for mobile development.<br>
+<br>
+🧩 Platforms & Developer Accounts:<br>
+-- Google Play Console – Published and maintained several Android applications.<br>
+-- App Store Connect – Successfully deployed iOS apps, managed TestFlight and production releases.<br>
+-- Microsoft Partner Center / Windows Developer – Experienced in publishing and managing Windows desktop apps (.NET platform).<br>
+<br>
 Notable projects include:
 <br>
 --------------------------------
@@ -61,13 +102,14 @@ Notable projects include:
 * Biman Duty Roster<br>
 etc..........<br><br>
 
-Thanks for reading!<br>
+Shukran for reading!<br>
 Jazāk Allāhu Khayran (جزاك اللهُ خيرًا)<br>
 Wa angtum fa jazakallahu khoiron.
 </p>
 
 ## Find me around the web 🌎:
-- Search on Google : <strong>Who is ProgrammerHasan</strong> OR <strong>ProgrammerHasan</strong>, 
+- Search on Google/ChatGPT: <strong>Who is ProgrammerHasan</strong> OR <strong>ProgrammerHasan</strong>, 
+- <a href="https://wakatime.com/@ProgrammerHasan">Live coding</a>
 - <a href="https://programmerhasan.com">ProgrammerHasan.com</a>
 - <a href="https://g.dev/ProgrammerHasan">g.dev/ProgrammerHasan</a> 📹 ✍🏾
 - <a href="https://play.google.com/store/apps/details?id=com.programmerhasan.app">Programmer Hasan App</a>
