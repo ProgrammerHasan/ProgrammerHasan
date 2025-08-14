@@ -91,6 +91,10 @@ Check out my PHP/Laravel packages:
 🚀 https://packagist.org/users/ProgrammerHasan/packages
 <br>
 
+Check out my NPM packages:
+🚀https://www.npmjs.com/~programmerhasan
+<br>
+
 #  
 
 Shukran for reading!<br>
