@@ -95,6 +95,10 @@ Check out my NPM packages:
 🚀https://www.npmjs.com/~programmerhasan
 <br>
 
+Check out my Python/django packages:
+🚀 https://pypi.org/user/ProgrammerHasan
+<br>
+
 #  
 
 Shukran for reading!<br>
