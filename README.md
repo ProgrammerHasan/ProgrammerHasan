@@ -4,17 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhasan&label=Views&color=blue&style=plastic" alt="programmerhasan" /> </p>
 <p><a href="https://wakatime.com/@f7bb0bd1-c231-4bbe-8571-83461b75f11e"><img src="https://wakatime.com/badge/user/f7bb0bd1-c231-4bbe-8571-83461b75f11e.svg" alt="Total time coded since May 14 2020" /></a></p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ProgrammerHasan.04)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ProgrammerHasan.s)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/programmerhasan)
+[![apps](https://img.shields.io/badge/Apps-30302f?style=flat&logo=appveyor)](https://apps.programmerhasan.com/)
 [![hackerrank badge](https://img.shields.io/badge/@ProgrammerHasan-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/ProgrammerHasan)
 [![youtube badge](https://img.shields.io/badge/MsITXpress-30302f?style=flat&logo=youtube)](https://youtube.com/msitxpress)
 [![youtube badge](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=youtube)](https://youtube.com/programmerhasan)
 [![playstore](https://img.shields.io/badge/ProgrammerHasan-30302f?style=flat&logo=googleplay)](https://play.google.com/store/apps/details?id=com.programmerhasan.app)
-[![googleplay](https://img.shields.io/badge/Ms%20IT%20Xpress-30302f?style=flat&logo=googleplay)](https://play-store.msitxpress.com/)
+
 <h3>
     Full-Stack Software Engineer & Programmer
     <br>
-    Laravel | Flutter | React | Backend Engineer | Quick Learner 🚀
+    Laravel | Flutter | React | Qwik | Backend Engineer | Quick Learner 🚀
     <br>
     Software Engineer at Sasthya Seba Limited | CTO at Excellent Soft
     <br><br>Alhamdulillah For Everything!
@@ -72,7 +73,25 @@ For coding, I prefer:
 -- Google Play Console – Published and maintained several Android applications.<br>
 -- App Store Connect – Successfully deployed iOS apps, managed TestFlight and production releases.<br>
 -- Microsoft Partner Center / Windows Developer – Experienced in publishing and managing Windows desktop apps (.NET platform).<br>
+
+Expert in the realms of Laravel, Flutter, AWS — with solid experience in system design, server management, and scalable application development.
+#  
+
+🔍 Search on Google/ChatGPT: Who is ProgrammerHasan?
+<br><br>
+📊 Live coding: https://wakatime.com/@ProgrammerHasan<br>
+💻 Articles: https://medium.com/@programmerhasan<br>
+### 🚀 Packages
+
+Check out my Dart/Flutter packages:
+🚀 https://pub.dev/publishers/programmerhasan.com/packages
 <br>
+
+Check out my PHP/Laravel packages:
+🚀 https://packagist.org/users/ProgrammerHasan/packages
+<br>
+
+#  
 
 Shukran for reading!<br>
 Jazāk Allāhu Khayran (جزاك اللهُ خيرًا)<br>
@@ -80,7 +99,6 @@ Wa angtum fa jazakallahu khoiron.
 </p>
 
 #  
-
 <details>
 <summary>🧰 My Tech Stack & Tools</summary>
 
