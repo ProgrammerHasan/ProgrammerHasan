@@ -15,7 +15,9 @@
 <h3>
     Full-Stack Software Engineer & Programmer
     <br>
-    Laravel | Flutter | React | Qwik | Backend Engineer | Quick Learner 🚀
+    6+ Years | 100+ Projects
+    <br>
+    Laravel • Flutter • React • Qwik | Backend Engineer | Quick Learner 🚀
     <br>
     Software Engineer at Sasthya Seba Limited | CTO at Excellent Soft
     <br><br>Alhamdulillah For Everything!
@@ -321,8 +323,8 @@ if __name__ == '__main__':
 
 <p align="left">
   <a href="https://programmerhasan.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=programmerhasan&show_icons=true&theme=dracula&hide_border=true" alt="Mehedi Hasan's github stats" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerhasan&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=programmerhasan&show_icons=true&theme=dracula&hide_border=true" alt="Mehedi Hasan's github stats" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerhasan&theme=dracula&hide_border=true" alt="Mehedi Hasan's github stats" />
   </a>
 </p>
 
