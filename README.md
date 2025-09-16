@@ -81,8 +81,12 @@ Expert in the realms of Laravel, Flutter, AWS — with solid experience in syste
 <br><br>
 📊 Live coding: https://wakatime.com/@ProgrammerHasan<br>
 💻 Articles: https://medium.com/@programmerhasan<br>
-### 🚀 Packages
 
+
+<details>
+<summary><strong>🚀 Packages (click to expand)</strong></summary>
+
+<br>
 Check out my Dart/Flutter packages:
 🚀 https://pub.dev/publishers/programmerhasan.com/packages
 <br>
@@ -99,7 +103,7 @@ Check out my Python/django packages:
 🚀 https://pypi.org/user/ProgrammerHasan
 <br>
 
-#  
+</details>
 
 Shukran for reading!<br>
 Jazāk Allāhu Khayran (جزاك اللهُ خيرًا)<br>
@@ -290,9 +294,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/RSS-FE6600?style=flat-square&logo=rss&logoColor=white" alt="RSS" height="20" />
     </a>
   </p>
-</details>
 
-```python
+  ```python
 class ProgrammerHasan():
     
   def __init__(self):
@@ -309,7 +312,7 @@ class ProgrammerHasan():
 if __name__ == '__main__':
     me = ProgrammerHasan()
 ```
-
+</details>
 
 <a href="https://github.com/programmerhasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerhasan&theme=dark&hide_langs_below=1&bg_color=282a36" />
